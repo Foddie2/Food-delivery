@@ -1,3 +1,4 @@
+
 module.exports = {
     content: [
       "./screens/**/*.{js,ts,jsx,tsx}",
